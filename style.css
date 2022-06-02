@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to right top, #00ff37, #98df00, #cabc00, #e79600, #f46f00, #fb571f, #ff3a33, #ff0046, #fe0069, #ea0097, #b700cb, #0300ff);
+
+}
+
+a{
+    font-size:20px !important;;
+    width: 400px !important;
+    border-radius:30px ;
+    background-color: white;
+    color: black;
+}
+
+#back_button{
+    width: 200px !important;
+    float:right;
+
+}
+
+canvas{
+    margin-top: 100px;
+}
+#number{
+    margin-left: 400px;
+}
+#Status{
+    margin-left: 200px;
+}
